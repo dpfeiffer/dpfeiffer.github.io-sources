@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Daniel Pfeiffer
+tagline:             Software Developer
+url:                 http://danielpfeiffer.me
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Daniel Pfeiffer
+  url:               https://twitter.com/dpfeiffer
+  email:             mail@danielpfeiffer.me
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/dpfeiffer/dpfeiffer.github.io
