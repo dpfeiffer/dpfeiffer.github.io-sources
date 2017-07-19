@@ -1,6 +1,5 @@
 # Site settings
 baseurl = "http://danielpfeiffer.me"
-publishDir = "docs"
 themesDir = "./themes/"
 languageCode = "en-us"
 title = "Daniel Pfeiffer - Software Engineer"
