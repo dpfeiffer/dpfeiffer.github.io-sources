@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Daniel Pfeiffer - Software Engineer</title>
+    <link>http://danielpfeiffer.me/</link>
+    <description>Recent content in Home on Daniel Pfeiffer - Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://danielpfeiffer.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scala Vienna - Error Handling in Scala</title>
+      <link>http://danielpfeiffer.me/post/2017-06-08_scala-usergroup-error-handling/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielpfeiffer.me/post/2017-06-08_scala-usergroup-error-handling/</guid>
+      <description>Scala is a very unopinionated programming language so there are many ways of solving certain problems. One problem I always had when writing business software was the handling of errors. In Java we are used to throw exceptions to model failure behaviour which makes applications usually hard to understand. Gladly there are better alternatives using Scala and the cats library which I presented to the Viennese Scala Community.
+ </description>
+    </item>
+    
+    <item>
+      <title>Java Vienna - Event Sourcing using Akka on AWS</title>
+      <link>http://danielpfeiffer.me/post/2017-05-08_java-usergroup-event-sourcing/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielpfeiffer.me/post/2017-05-08_java-usergroup-event-sourcing/</guid>
+      <description>This talk is about our experiences at Firstbird using the Akka toolkit building a modern, event sourced software architecture on Amazon Web Services. In modern software architectures, which are going to be deployed on the cloud there are various moving parts which have to be glued together to build an overall architecture out of them. AWS provides some very basic but yet powerful tools like the Simple Queue Service and the Simple Notification Service which enable developers to build a scalable event driven architecture.</description>
+    </item>
+    
+    <item>
+      <title>Scala Vienna - Event Sourcing using Akka on AWS</title>
+      <link>http://danielpfeiffer.me/post/2016-09-26_scala-usergroup-talk-event-sourcing/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielpfeiffer.me/post/2016-09-26_scala-usergroup-talk-event-sourcing/</guid>
+      <description>This talk is about our experiences at Firstbird using the Akka toolkit building a modern, event sourced software architecture on Amazon Web Services. In modern software architectures, which are going to be deployed on the cloud there are various moving parts which have to be glued together to build an overall architecture out of them. AWS provides some very basic but yet powerful tools like the Simple Queue Service and the Simple Notification Service which enable developers to build a scalable event driven architecture.</description>
+    </item>
+    
+  </channel>
+</rss>

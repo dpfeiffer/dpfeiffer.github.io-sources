@@ -1,0 +1,9 @@
+{{ define "profile" }}
+    {{ partial "profile.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ .Content }}
+  {{ partial "post-list.html"  . }}
+	{{ partial "pagination.html" . }}
+{{ end }}
